@@ -1,0 +1,11 @@
+export const EDUCATION = "EDUCATION";
+export const CLEAR_EDUCATION = "CLEAR_EDUCATION";
+export const EXPERIENCE = "EXPERIENCE";
+export const CLEAR_EXPERIENCE = "CLEAR_EXPERIENCE";
+export const PROFILE = "PROFILE";
+export const CLEAR_PROFILE = "CLEAR_PROFILE";
+export const SKILLS = "SKILLS";
+export const CLEAR_SKILLS = "CLEAR_SKILLS";
+export const MODIFY_COUNT = "MODIFY_COUNT";
+export const MODIFY_EXP_COUNT = "MODIFY_EXP_COUNT";
+export const MODIFY_SKILLS_COUNT = "MODIFY_SKILLS_COUNT";
